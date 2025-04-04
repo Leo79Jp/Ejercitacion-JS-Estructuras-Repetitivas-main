@@ -5,8 +5,9 @@
 for (let i = 1; i <= 999; i+=2) {
     let cuadrado = i * i; 
     console.log(`${i}`); 
-   }
-   for (let i = 2; i <= 999; i+=2) {
+}
+
+for (let i = 2; i <= 999; i+=2) {
     let cuadrado = i * i; 
     console.log(`${i}`); 
-   }
+}
