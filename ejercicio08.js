@@ -8,6 +8,6 @@ let B = parseInt(prompt(`Ingrese el valor de ' B ': `))
 let resto = (A%B);
 
 for (let i = A; i > 0; i-=B) {
-    console.log(i);
+    // console.log(i);
 }
-console.log({resto});
+console.log({resto}); 
